@@ -1,7 +1,7 @@
 # Advanced_Java_Programs
  **Name**: Harshith L S  
 **USN**: 4AL22CS056  
-**Sem/Section**: VI/B  
+**Sem/Section**: VI/A  
 **Total Programs**: 28  
 
 ---
